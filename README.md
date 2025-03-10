@@ -19,11 +19,12 @@ This project is a **Reservation System** implemented in **C++**, designed to han
 - `.txt_files` → Stores reservation details  
 - `README.md` → Documentation  
 ## 📌 Functionalities
-Reserve a Seat/Room/Vehicle (based on the system type)
-View Current Reservations
-Cancel a Reservation
-Admin Access 
-📸 Preview
+- Reserve a Seat/Room/Vehicle (based on the system type)
+- View Current Reservations
+- Cancel a Reservation
+- Admin Access
+- 
+# 📸 Preview
 https://www.shronal.com.np/hotelreservation.html
 
 ## 👨‍💻 Author
